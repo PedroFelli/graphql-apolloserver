@@ -1,0 +1,6 @@
+  1. yarn watch
+
+
+  create post 
+  // const post = orm.em.create(Post, {title: "my first post"});
+  // await orm.em.persistAndFlush(post);
